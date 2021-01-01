@@ -1,0 +1,8 @@
+numpy
+matplotlib
+tqdm
+scipy==1.3.3
+requests==2.22.0
+Pillow==6.2.1
+keras==2.0.8
+dlib
